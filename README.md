@@ -1,3 +1,4 @@
 # together
 collab
+ez
 gg
