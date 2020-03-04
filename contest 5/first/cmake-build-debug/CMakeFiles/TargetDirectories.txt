@@ -1,0 +1,3 @@
+D:/My Documents/Programming/Projekts/Coursera/first/cmake-build-debug/CMakeFiles/first.dir
+D:/My Documents/Programming/Projekts/Coursera/first/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/My Documents/Programming/Projekts/Coursera/first/cmake-build-debug/CMakeFiles/rebuild_cache.dir
