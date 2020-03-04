@@ -1,0 +1,5 @@
+﻿  с1.cpp
+C:\Workstuff\programming\study\together\together\с1\с1.cpp(13,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Workstuff\programming\study\together\together\с1\с1.cpp(27,18): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Workstuff\programming\study\together\together\с1\с1.cpp(42,18): warning C4018: >: несоответствие типов со знаком и без знака
+  с1.vcxproj -> C:\Workstuff\programming\study\together\together\с1\Debug\с1.exe
