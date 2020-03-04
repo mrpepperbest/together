@@ -1,0 +1,3 @@
+D:/My Documents/Programming/Projekts/Coursera/second/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/My Documents/Programming/Projekts/Coursera/second/cmake-build-debug/CMakeFiles/second.dir
+D:/My Documents/Programming/Projekts/Coursera/second/cmake-build-debug/CMakeFiles/edit_cache.dir
